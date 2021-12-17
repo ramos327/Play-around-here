@@ -26,7 +26,7 @@ During the colonial period, English colonists were establishing new cities and m
 
 
 # Spanish Physician
-
+Spanish physician Nicholas Monardes would be the first to explore what would be the United States and in his work _Joyfull Newes out of the newe foundd World_ was first translated to English in 1577 saying that the Indians gave the Spanish many valuable medicines that could cure many diseases including “the hoolie Woodde” a root that was used for both Europeans and Americans for many years to help cure syphilis and other diseases. Nicholas especially highly praised sassafrass, a plant that was used universally to cure many diseases. Finally, Nicholas goes as far to even say “sicke of any maner of evill which commeth unto them, sharpe, or large, hot, or colde, grievous or otherwise, they…have it for a universal remedy for all manner of deseases.”
  <param ve-image
         label="Sassafrass"
         description="Sassafrass tree"
