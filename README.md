@@ -3,7 +3,7 @@
 <param ve-config 
        title="John Josselyn and New England Medicine"
        author="Damian Ramos"
-       banner="https://upload.wikimedia.org/wikipedia/commons/9/95/Map_of_New_England.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/2/21/A_collection_of_pamphlets-_containing_the_way_and_manner_of_inoculating_the_small-pox_both_in_Britain_and_New-England_Fleuron_N014857-14.png" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
