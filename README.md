@@ -1,8 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
+       title="John Josslyn and New England Medicine"
+       author="Damian Ramos"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
@@ -16,9 +16,12 @@
 
 # Sample visual essay
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+During the colonial period, English colonists were establishing new cities and making many discoveries. Naturally these discoveries and cities would attract more Englishmen to come and see if they can make discoveries of their own. In 1663 a man named John Josselyn came to New England for the second time in his life and stayed there for about 8 years. He would write a book called New England Rarities that told about the flora and fauna that could be found in New England. The Flora that is mentioned is a very wide range of plants that have multiple uses for them. Some plants that were told by John were like Cornacae where the bark is used for both a tonic and as a toothbrush and Mayweed used to help with old sores. The book had a wide-range of how plants can be used to help with many illnesses and wounds that were valubale to everyone including the Spanish. Even though little is known about John, his book received recognition by historians and philosophers for his way of gathering information.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       label="New England Rarities"
+       description="Book cover of John Josselyn's book _New England Rarities_"
+       License="public domain"
+       url="https://images-na.ssl-images-amazon.com/images/I/61XpVJLQR1L.jpg">
 
 # Basic usage
 
