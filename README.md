@@ -3,7 +3,7 @@
 <param ve-config 
        title="John Josselyn and New England Medicine"
        author="Damian Ramos"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/9/95/Map_of_New_England.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
