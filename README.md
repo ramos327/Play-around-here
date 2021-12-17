@@ -23,7 +23,7 @@ During the colonial period, English colonists were establishing new cities and m
        License="public domain"
        url="https://images-na.ssl-images-amazon.com/images/I/61XpVJLQR1L.jpg">
 
-# The Indian
+## The Indian
 For his plants section he heavily references “An Indian” when he talks about a concoction or how a plant can be used to help with a wound or sickness. The information he gathered on medicinal plants came from Native Indians instead of English physicians and made me wonder “Why did he seek medical advice from Native Americans?” Well Native Americans were actually very knowledgable when it came to herbal medicine. They knew about many plants and how they can cure many illnesses that would be helpful to the English, especially since they were still new to the land and they needed ways to fight new sicknesses and dieseases that they may not have encountered back in England.
 
 # Nicholas Monardes
