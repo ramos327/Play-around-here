@@ -47,7 +47,8 @@ Even though little is known about John Josselyn, his book showed a new form of g
        label="Map of New England"
        description="Map of New England"
        license="public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/4/4a/A_mapp_of_New_England_%282675735796%29.jpg"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4a/A_mapp_of_New_England_%282675735796%29.jpg">
+       
 #  References                  
 [^1]: [ Josselyn, John. _New England's rarities discovered._ Applewood Books, 1986.]
 [^2]: [ Monardes, Nicolas. Joyfull newes out of the newe founde worlde. London 1577. W. Norton, 1970.]
